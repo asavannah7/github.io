@@ -14,7 +14,7 @@
     <h2>Projects</h2>
     <!-- List your projects with brief descriptions and links -->
     <div class="project">
-        <h3>Project Name 1</h3>
+        <h3>To-Do App</h3>
         <p>Description of the project.</p>
         <a href="#">Project Link</a>
     </div>
