@@ -18,6 +18,7 @@
         <p>This code provides a basic structure for a to-do app with adding and deleting tasks functionality.</p>
         <a href="#">Project Link</a>
     </div>
+        <h3>Responsive Design (CSS3)
     <!-- Add more projects as needed -->
 </section>
 
