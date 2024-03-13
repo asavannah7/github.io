@@ -19,7 +19,7 @@
         <a href="#">Project Link</a>
     </div>
         <h3>Responsive Design (CSS3)</h3>
-        <p>This code demonstrates a basic webpage with responsiveness for various screen sizes.</p>  <!-- Add more projects as needed -->
+        <!-- Add more projects as needed -->
 </section>
 
 <section id="contact">
