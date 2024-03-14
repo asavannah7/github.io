@@ -14,7 +14,7 @@
     <h2>Projects</h2>
     <!-- List your projects with brief descriptions and links -->
     <div class="project">
-        <h3>(FRONT-END) To-Do App (HTML5)</h3>
+        <h3>(FRONT-END DEVELOPMENT) To-Do App (HTML5)</h3>
         <p>This code provides a basic structure for a to-do app with adding and deleting tasks functionality.</p>
         <a href="#">Project Link</a>
     </div>
