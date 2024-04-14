@@ -15,7 +15,7 @@
     <!-- List your projects with brief descriptions and links -->
     <div class="project">
         <h3>(FRONT-END DEVELOPMENT) PERSONAL PORTFOLIO WEBSITE (HTML5)</h3>
-        <p>This code provides a basic structure for a to-do app with adding and deleting tasks functionality.</p>
+        <p>This code serves as a digital showcase of your personal portfolio. It allows you to display information about yourself, your skills, past projects, and how others can get in touch with you. It's a platform for potential clients, employers, or collaborators to learn more about you and your work..</p>
         <a href="#">Project Link</a>
     </div>
         <!-- Add more projects as needed -->
