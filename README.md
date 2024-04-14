@@ -7,7 +7,7 @@
 
 <section id="about">
     <h2>About Me</h2>
-    <p>Welcome to my GitHub portfolio! Antonio Savannah is a seasoned Senior Full-Stack Developer with a passion for crafting robust and innovative solutions. My expertise spans both front-end and back-end technologies, delivering high-quality software that meets and exceeds expectations. Explore his projects to witness a blend of technical prowess and creative problem-solving.</p>
+    <p>Welcome to my GitHub portfolio! Antonio Savannah is a seasoned Senior Full-Stack Developer with a passion for crafting robust and innovative solutions. His expertise spans both front-end and back-end technologies, delivering high-quality software that meets and exceeds expectations. Explore his projects to witness a blend of technical prowess and creative problem-solving.</p>
 </section>
 
 <section id="projects">
