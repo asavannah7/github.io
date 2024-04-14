@@ -24,7 +24,7 @@
 <section id="contact">
     <h2>Contact Me</h2>
     <p>Email: asavannah7@aol.com</p>
-    <p>LinkedIn: [Your LinkedIn Profile]</p>
+    <p>LinkedIn: https://www.linkedin.com/in/antonio-savannah-a255a71a</p>
     <!-- Add other contact information and links -->
 </section>
 
