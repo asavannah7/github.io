@@ -7,7 +7,7 @@
 
 <section id="about">
     <h2>About Me</h2>
-    <p>Welcome to my GitHub portfolio! I am a seasoned Senior Full-Stack Developer with a passion for crafting robust and innovative solutions. My expertise spans both front-end and back-end technologies, delivering high-quality software that meets and exceeds expectations. Explore my projects to witness a blend of technical prowess and creative problem-solving.</p>
+    <p>Welcome to my GitHub portfolio! Antonio Savannah is a seasoned Senior Full-Stack Developer with a passion for crafting robust and innovative solutions. My expertise spans both front-end and back-end technologies, delivering high-quality software that meets and exceeds expectations. Explore my projects to witness a blend of technical prowess and creative problem-solving.</p>
 </section>
 
 <section id="projects">
@@ -15,7 +15,7 @@
     <!-- List your projects with brief descriptions and links -->
     <div class="project">
         <h3>(FRONT-END DEVELOPMENT) PERSONAL PORTFOLIO WEBSITE (HTML5)</h3>
-        <p>This code serves as a digital showcase of your personal portfolio. It allows you to display information about yourself, your skills, past projects, and how others can get in touch with you. It's a platform for potential clients, employers, or collaborators to learn more about you and your work..</p>
+        <p>This code serves as a digital showcase of my personal portfolio. It allows me to display information about myself, my skills, past projects, and how others can get in touch with me. It's a platform for potential clients, employers, or collaborators to learn more about me and my work.</p>
         <a href="#">Project Link</a>
     </div>
         <!-- Add more projects as needed -->
