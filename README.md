@@ -29,7 +29,7 @@
 </section>
 
 <footer>
-    <p>&copy; 2024 Your Portfolio. All rights reserved.</p>
+    <p>&copy; 2024 My Portfolio. All rights reserved.</p>
 </footer>
 
 <!-- Add your scripts and other body elements here -->
