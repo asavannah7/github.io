@@ -17,7 +17,8 @@
         <h3>(FRONT-END DEVELOPMENT) PERSONAL PORTFOLIO WEBSITE (HTML5)</h3>
         <p>This serves as a digital showcase of my personal portfolio. It allows me to display information about myself, my skills, past projects, and how others can get in touch with me. It's a platform for potential clients, employers, or collaborators to learn more about me and my work.</p>
         <a href="#">Project Link</a>
-    </div>
+    </div> 
+    <h3>WEATHER APP</h3>
         <!-- Add more projects as needed -->
 </section>
 
