@@ -15,13 +15,13 @@
     <!-- List your projects with brief descriptions and links -->
     <div class="project">
         <h3>(FRONT-END DEVELOPMENT) PERSONAL PORTFOLIO WEBSITE (HTML5)</h3>
-<p>This serves as a digital showcase of my personal portfolio. It allows me to display information about myself, my skills, past projects, and how others can get in touch with me. It's a platform for potential clients, employers, or collaborators to learn more about me and my work.</p>
+<p>This code serves as a digital showcase of my personal portfolio. It allows me to display information about myself, my skills, past projects, and how others can get in touch with me. It's a platform for potential clients, employers, or collaborators to learn more about me and my work.</p>
         <a href="#">Project Link</a>
     </div> 
     <h3>(FRONT-END DEVELOPMENT) WEATHER APP (CSS3)</h3> 
-<p>This is designed to provide users with up-to-date information about current weather conditions, forecasts, and alerts for their specific location or locations of interest. It helps users plan their activities, dress appropriately, and stay safe by being aware of upcoming weather events.</p> 
+<p>This code is designed to provide users with up-to-date information about current weather conditions, forecasts, and alerts for their specific location or locations of interest. It helps users plan their activities, dress appropriately, and stay safe by being aware of upcoming weather events.</p> 
     <h3>(FRONT-END DEVELOPER) E-COMMERCE WEBSITE (JAVASCRIPT)</h3> 
-<p>This is to facilitate the buying and selling of goods or services over the internet. It provides a platform for businesses to showcase their products, allows customers to browse and purchase items online, and facilitates secure transactions and payment processing. Additionally, e-commerce websites often include features such as product reviews, personalized recommendations, and customer support to enhance the shopping experience.</p>
+<p>This code is to facilitate the buying and selling of goods or services over the internet. It provides a platform for businesses to showcase their products, allows customers to browse and purchase items online, and facilitates secure transactions and payment processing. Additionally, e-commerce websites often include features such as product reviews, personalized recommendations, and customer support to enhance the shopping experience.</p>
     <a href="#">Project Link</a>
     </div> 
         <!-- Add more projects as needed -->
