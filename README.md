@@ -22,10 +22,11 @@
 <p>This code is designed to provide users with up-to-date information about current weather conditions, forecasts, and alerts for their specific location or locations of interest. It helps users plan their activities, dress appropriately, and stay safe by being aware of upcoming weather events.</p>                               
         <a href="#">Project Link</a> 
      </div>
-    <h3>(FRONT-END DEVELOPER) E-COMMERCE WEBSITE (JAVASCRIPT)</h3> 
+    <h3>(FRONT-END DEVELOPMENT) E-COMMERCE WEBSITE (JAVASCRIPT)</h3> 
 <p>This code is used to facilitate the buying and selling of goods or services over the internet. It provides a platform for businesses to showcase their products, allows customers to browse and purchase items online, and facilitates secure transactions and payment processing.</p>
     <a href="#">Project Link</a>
-    </div> 
+    </div>  
+  <h3>(BACK-END DEVELOPMENT) E-COMMERCE PLATFORM) </h3>
         <!-- Add more projects as needed -->
 </section>
 
