@@ -27,7 +27,8 @@
     <a href="#">Project Link</a>
     </div>  
   <h3>(BACK-END DEVELOPMENT) E-COMMERCE PLATFORM) </h3>
-         <a href="#">Project Link</a>
+<p>This code is to facilitate buying and selling of goods or services over the internet. It provides a virtual marketplace where businesses can showcase their products, manage transactions, and interact with customers, making shopping more convenient and accessible.</P>      
+     <a href="#">Project Link</a>
     </div>         <!-- Add more projects as needed -->
 </section>
 
