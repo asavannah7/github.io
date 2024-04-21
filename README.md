@@ -27,7 +27,8 @@
     <a href="#">Project Link</a>
     </div>  
   <h3>(BACK-END DEVELOPMENT) E-COMMERCE PLATFORM) </h3>
-        <!-- Add more projects as needed -->
+         <a href="#">Project Link</a>
+    </div>         <!-- Add more projects as needed -->
 </section>
 
 <section id="contact">
