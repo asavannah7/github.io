@@ -26,10 +26,11 @@
 <p>This code is used to facilitate the buying and selling of goods or services over the internet. It provides a platform for businesses to showcase their products, allows customers to browse and purchase items online, and facilitates secure transactions and payment processing.</p>
     <a href="#">Project Link</a>
     </div>  
-  <h3>(BACK-END DEVELOPMENT) E-COMMERCE PLATFORM) </h3>
+  <h3>(BACK-END DEVELOPMENT) E-COMMERCE PLATFORM </h3>
 <p>This code is to facilitate buying and selling of goods or services over the internet. It provides a virtual marketplace where businesses can showcase their products, manage transactions, and interact with customers, making shopping more convenient and accessible.</P>      
      <a href="#">Project Link</a>
-    </div>         <!-- Add more projects as needed -->
+    </div>    
+   <h3>(BACK-END DEVELOPMENT) TASK MANAGEMENT SYSTEM</h3> <!-- Add more projects as needed -->
 </section>
 
 <section id="contact">
