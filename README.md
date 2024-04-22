@@ -30,7 +30,8 @@
 <p>This code is to facilitate buying and selling of goods or services over the internet. It provides a virtual marketplace where businesses can showcase their products, manage transactions, and interact with customers, making shopping more convenient and accessible.</P>      
      <a href="#">Project Link</a>
     </div>    
-   <h3>(BACK-END DEVELOPMENT) TASK MANAGEMENT SYSTEM</h3> <!-- Add more projects as needed -->
+   <h3>(BACK-END DEVELOPMENT) TASK MANAGEMENT SYSTEM</h3> 
+<p>This code is designed to help individuals or teams organize, prioritize, and track tasks to ensure efficient completion of projects or goals. It helps streamline workflow, improve productivity, and ensure nothing falls through the cracks.<!-- Add more projects as needed -->
 </section>
 
 <section id="contact">
